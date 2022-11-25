@@ -3,4 +3,4 @@ img {width:100%}
 p {color: rgb(5, 44, 70);}
 p.segundo {background-color: blue;color: antiquewhite;}
 a.link {background-color: chartreuse; color: blue;}
-img.icon {width: 100px; height: auto;}
+img.icon {width: 100px; height: auto; float: right;}
