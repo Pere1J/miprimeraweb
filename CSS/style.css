@@ -1,6 +1,27 @@
-h1 {color: red; font-family: Georgia, 'Times New Roman', Times, serif;}
-img {width:100%}
-p {color: rgb(5, 44, 70);}
-p.segundo {background-color: blue;color: antiquewhite;}
-a.link {background-color: chartreuse; color: blue;}
-img.icon {width: 100px; height: auto; float: right;}
+h1 {
+  color: red;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.cos {
+  display: flex;
+  row-gap: 10px;
+}
+img {
+  width: 100%;
+}
+p {
+  color: rgb(5, 44, 70);
+}
+p.segundo {
+  background-color: blue;
+  color: antiquewhite;
+}
+a.link {
+  background-color: chartreuse;
+  color: blue;
+}
+img.icon {
+  width: 100px;
+  height: auto;
+  float: right;
+}
